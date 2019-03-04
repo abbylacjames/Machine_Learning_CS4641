@@ -17,6 +17,7 @@ import java.text.*;
  *
  * @author Hannah Lau
  * @author Aman Aggarwal
+    used and eidted by:Abigail James 
  * @version 1.0
  */
 public class krkoptWeightTesting {
